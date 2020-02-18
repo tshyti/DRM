@@ -1,0 +1,11 @@
+C:\Users\dhimi\Documents\Information_security_project\drm-core\DRM_netCore\DRM_Api.Services\bin\Release\netcoreapp3.1\DRM_Api.Services.deps.json
+C:\Users\dhimi\Documents\Information_security_project\drm-core\DRM_netCore\DRM_Api.Services\bin\Release\netcoreapp3.1\DRM_Api.Services.dll
+C:\Users\dhimi\Documents\Information_security_project\drm-core\DRM_netCore\DRM_Api.Services\bin\Release\netcoreapp3.1\DRM_Api.Services.pdb
+C:\Users\dhimi\Documents\Information_security_project\drm-core\DRM_netCore\DRM_Api.Services\bin\Release\netcoreapp3.1\DRM_Api.Core.dll
+C:\Users\dhimi\Documents\Information_security_project\drm-core\DRM_netCore\DRM_Api.Services\bin\Release\netcoreapp3.1\DRM_Api.Core.pdb
+C:\Users\dhimi\Documents\Information_security_project\drm-core\DRM_netCore\DRM_Api.Services\obj\Release\netcoreapp3.1\DRM_Api.Services.csprojAssemblyReference.cache
+C:\Users\dhimi\Documents\Information_security_project\drm-core\DRM_netCore\DRM_Api.Services\obj\Release\netcoreapp3.1\DRM_Api.Services.AssemblyInfoInputs.cache
+C:\Users\dhimi\Documents\Information_security_project\drm-core\DRM_netCore\DRM_Api.Services\obj\Release\netcoreapp3.1\DRM_Api.Services.AssemblyInfo.cs
+C:\Users\dhimi\Documents\Information_security_project\drm-core\DRM_netCore\DRM_Api.Services\obj\Release\netcoreapp3.1\DRM_Api.Services.csproj.CopyComplete
+C:\Users\dhimi\Documents\Information_security_project\drm-core\DRM_netCore\DRM_Api.Services\obj\Release\netcoreapp3.1\DRM_Api.Services.dll
+C:\Users\dhimi\Documents\Information_security_project\drm-core\DRM_netCore\DRM_Api.Services\obj\Release\netcoreapp3.1\DRM_Api.Services.pdb

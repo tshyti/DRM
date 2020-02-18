@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/tshyti/Documents/DocumentRightsManagement/drm-core/DRM_netCore/DRM_Api.Services/DRM_Api.Services.csproj": {}
+  },
+  "projects": {
+    "/home/tshyti/Documents/DocumentRightsManagement/drm-core/DRM_netCore/DRM_Api.Core/DRM_Api.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tshyti/Documents/DocumentRightsManagement/drm-core/DRM_netCore/DRM_Api.Core/DRM_Api.Core.csproj",
+        "projectName": "DRM_Api.Core",
+        "projectPath": "/home/tshyti/Documents/DocumentRightsManagement/drm-core/DRM_netCore/DRM_Api.Core/DRM_Api.Core.csproj",
+        "packagesPath": "/home/tshyti/.nuget/packages/",
+        "outputPath": "/home/tshyti/Documents/DocumentRightsManagement/drm-core/DRM_netCore/DRM_Api.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tshyti/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/tshyti/Documents/DocumentRightsManagement/drm-core/DRM_netCore/DRM_Api.Services/DRM_Api.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tshyti/Documents/DocumentRightsManagement/drm-core/DRM_netCore/DRM_Api.Services/DRM_Api.Services.csproj",
+        "projectName": "DRM_Api.Services",
+        "projectPath": "/home/tshyti/Documents/DocumentRightsManagement/drm-core/DRM_netCore/DRM_Api.Services/DRM_Api.Services.csproj",
+        "packagesPath": "/home/tshyti/.nuget/packages/",
+        "outputPath": "/home/tshyti/Documents/DocumentRightsManagement/drm-core/DRM_netCore/DRM_Api.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tshyti/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/tshyti/Documents/DocumentRightsManagement/drm-core/DRM_netCore/DRM_Api.Core/DRM_Api.Core.csproj": {
+                "projectPath": "/home/tshyti/Documents/DocumentRightsManagement/drm-core/DRM_netCore/DRM_Api.Core/DRM_Api.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Sinks.RollingFile": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "WindowsAzure.Storage": {
+              "target": "Package",
+              "version": "[9.3.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

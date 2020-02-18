@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DRM_Api</name>
+    </assembly>
+    <members>
+        <member name="T:DRM_Api.Controllers.AuthenticationController">
+            <summary>
+            Used for user authentication and authorization
+            </summary>
+        </member>
+        <member name="M:DRM_Api.Controllers.AuthenticationController.Authenticate(DRM_Api.Core.Entities.DTO.AuthenticateModel)">
+            <summary>
+            Authenticates user
+            </summary>
+        </member>
+        <member name="M:DRM_Api.Controllers.AuthenticationController.LogOut">
+            <summary>
+            Log out of the application/
+            </summary>
+        </member>
+        <member name="M:DRM_Api.Controllers.UsersController.GetAllUsersAsync">
+            <summary>
+            Gets all users.
+            </summary>
+            <returns>Returns IEnumerable of UserResource models</returns>
+        </member>
+    </members>
+</doc>

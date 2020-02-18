@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a69e3a6-9174-40ec-9980-0e5af9550c86" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Core/bin/Debug/netcoreapp3.1/DRM_Api.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Core/bin/Debug/netcoreapp3.1/DRM_Api.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Core/bin/Debug/netcoreapp3.1/DRM_Api.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Core/bin/Debug/netcoreapp3.1/DRM_Api.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Core/obj/DRM_Api.Core.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Core/obj/DRM_Api.Core.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Core/obj/DRM_Api.Core.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Core/obj/DRM_Api.Core.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Core/obj/DRM_Api.Core.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Core/obj/DRM_Api.Core.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Core/obj/Debug/netcoreapp3.1/DRM_Api.Core.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Core/obj/Debug/netcoreapp3.1/DRM_Api.Core.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Core/obj/Debug/netcoreapp3.1/DRM_Api.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Core/obj/Debug/netcoreapp3.1/DRM_Api.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Core/obj/Debug/netcoreapp3.1/DRM_Api.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Core/obj/Debug/netcoreapp3.1/DRM_Api.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Core/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Core/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Persistance/bin/Debug/netcoreapp3.1/DRM_Api.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Persistance/bin/Debug/netcoreapp3.1/DRM_Api.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Persistance/bin/Debug/netcoreapp3.1/DRM_Api.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Persistance/bin/Debug/netcoreapp3.1/DRM_Api.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Persistance/obj/DRM_Api.Persistance.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Persistance/obj/DRM_Api.Persistance.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Persistance/obj/DRM_Api.Persistance.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Persistance/obj/DRM_Api.Persistance.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Persistance/obj/Debug/netcoreapp3.1/DRM_Api.Persistance.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Persistance/obj/Debug/netcoreapp3.1/DRM_Api.Persistance.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Persistance/obj/Debug/netcoreapp3.1/DRM_Api.Persistance.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Persistance/obj/Debug/netcoreapp3.1/DRM_Api.Persistance.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Persistance/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Persistance/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Services/bin/Debug/netcoreapp3.1/DRM_Api.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Services/bin/Debug/netcoreapp3.1/DRM_Api.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Services/bin/Debug/netcoreapp3.1/DRM_Api.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Services/bin/Debug/netcoreapp3.1/DRM_Api.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Services/bin/Debug/netcoreapp3.1/DRM_Api.Services.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Services/bin/Debug/netcoreapp3.1/DRM_Api.Services.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Services/bin/Debug/netcoreapp3.1/DRM_Api.Services.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Services/bin/Debug/netcoreapp3.1/DRM_Api.Services.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Services/obj/DRM_Api.Services.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Services/obj/DRM_Api.Services.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Services/obj/DRM_Api.Services.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Services/obj/DRM_Api.Services.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Services/obj/DRM_Api.Services.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Services/obj/DRM_Api.Services.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Services/obj/Debug/netcoreapp3.1/DRM_Api.Services.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Services/obj/Debug/netcoreapp3.1/DRM_Api.Services.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Services/obj/Debug/netcoreapp3.1/DRM_Api.Services.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Services/obj/Debug/netcoreapp3.1/DRM_Api.Services.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Services/obj/Debug/netcoreapp3.1/DRM_Api.Services.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Services/obj/Debug/netcoreapp3.1/DRM_Api.Services.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Services/obj/Debug/netcoreapp3.1/DRM_Api.Services.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Services/obj/Debug/netcoreapp3.1/DRM_Api.Services.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api.Services/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api.Services/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/DRM_Api.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/DRM_Api.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/DRM_Api.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/DRM_Api.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/DRM_Api.Services.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/DRM_Api.Services.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/DRM_Api.Services.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/DRM_Api.Services.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/DRM_Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/DRM_Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/DRM_Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/DRM_Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/Serilog.AspNetCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/Serilog.AspNetCore.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/Serilog.Extensions.Hosting.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/Serilog.Extensions.Hosting.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/Serilog.Extensions.Logging.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/Serilog.Extensions.Logging.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/Serilog.Formatting.Compact.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/Serilog.Formatting.Compact.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/Serilog.Settings.Configuration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/Serilog.Settings.Configuration.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/Serilog.Sinks.Console.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/Serilog.Sinks.Console.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/Serilog.Sinks.Debug.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/Serilog.Sinks.Debug.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/Serilog.Sinks.File.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/Serilog.Sinks.File.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/Serilog.Sinks.RollingFile.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/Serilog.Sinks.RollingFile.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/Serilog.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/bin/Debug/netcoreapp3.1/netcoreapp3.1/Serilog.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/obj/DRM_Api.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/obj/DRM_Api.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/obj/DRM_Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/obj/DRM_Api.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/obj/DRM_Api.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/obj/DRM_Api.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/obj/DRM_Api.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/obj/DRM_Api.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/obj/Debug/netcoreapp3.1/DRM_Api.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/obj/Debug/netcoreapp3.1/DRM_Api.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/obj/Debug/netcoreapp3.1/DRM_Api.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/obj/Debug/netcoreapp3.1/DRM_Api.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/obj/Debug/netcoreapp3.1/DRM_Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/obj/Debug/netcoreapp3.1/DRM_Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/obj/Debug/netcoreapp3.1/DRM_Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/obj/Debug/netcoreapp3.1/DRM_Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRM_Api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DRM_Api/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../drm-react/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../drm-react/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../drm-react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../drm-react/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../drm-react/src/pages/app/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../drm-react/src/pages/app/App.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/DRM_Api.Persistance/Repositories/UserRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DRM_Api/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DRM_Api/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DRM_Api/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1XE4ZcU4toAJMg5GsCZLPkOj36q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.DRM_Api">
+    <configuration name="DRM_Api" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/DRM_Api/DRM_Api.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="DRM_Api" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DRM_Api: IIS Express (1)" type="LaunchSettings" factoryName=".NET Launch Settings Profile" temporary="true">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/DRM_Api/DRM_Api.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DRM_Api: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/DRM_Api/DRM_Api.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Launch Settings Profile.DRM_Api: IIS Express (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a69e3a6-9174-40ec-9980-0e5af9550c86" name="Default Changelist" comment="" />
+      <created>1580598975657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580598975657</updated>
+      <workItem from="1580598982288" duration="846000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="415" y="48" width="829" height="844" key="#DRM_Api:_IIS_Express_(1)" timestamp="1580599522854">
+      <screen x="70" y="27" width="1530" height="873" />
+    </state>
+    <state x="415" y="48" width="829" height="844" key="#DRM_Api:_IIS_Express_(1)/70.27.1530.873@70.27.1530.873" timestamp="1580599522854" />
+    <state width="1484" height="268" key="GridCell.Tab.0.bottom" timestamp="1580599828669">
+      <screen x="70" y="27" width="1530" height="873" />
+    </state>
+    <state width="1484" height="268" key="GridCell.Tab.0.bottom/70.27.1530.873@70.27.1530.873" timestamp="1580599828669" />
+    <state width="1484" height="268" key="GridCell.Tab.0.center" timestamp="1580599828669">
+      <screen x="70" y="27" width="1530" height="873" />
+    </state>
+    <state width="1484" height="268" key="GridCell.Tab.0.center/70.27.1530.873@70.27.1530.873" timestamp="1580599828669" />
+    <state width="1484" height="268" key="GridCell.Tab.0.left" timestamp="1580599828669">
+      <screen x="70" y="27" width="1530" height="873" />
+    </state>
+    <state width="1484" height="268" key="GridCell.Tab.0.left/70.27.1530.873@70.27.1530.873" timestamp="1580599828669" />
+    <state width="1484" height="268" key="GridCell.Tab.0.right" timestamp="1580599828669">
+      <screen x="70" y="27" width="1530" height="873" />
+    </state>
+    <state width="1484" height="268" key="GridCell.Tab.0.right/70.27.1530.873@70.27.1530.873" timestamp="1580599828669" />
+    <state width="1484" height="268" key="GridCell.Tab.1.bottom" timestamp="1580599828670">
+      <screen x="70" y="27" width="1530" height="873" />
+    </state>
+    <state width="1484" height="268" key="GridCell.Tab.1.bottom/70.27.1530.873@70.27.1530.873" timestamp="1580599828670" />
+    <state width="1484" height="268" key="GridCell.Tab.1.center" timestamp="1580599828670">
+      <screen x="70" y="27" width="1530" height="873" />
+    </state>
+    <state width="1484" height="268" key="GridCell.Tab.1.center/70.27.1530.873@70.27.1530.873" timestamp="1580599828670" />
+    <state width="1484" height="268" key="GridCell.Tab.1.left" timestamp="1580599828670">
+      <screen x="70" y="27" width="1530" height="873" />
+    </state>
+    <state width="1484" height="268" key="GridCell.Tab.1.left/70.27.1530.873@70.27.1530.873" timestamp="1580599828670" />
+    <state width="1484" height="268" key="GridCell.Tab.1.right" timestamp="1580599828670">
+      <screen x="70" y="27" width="1530" height="873" />
+    </state>
+    <state width="1484" height="268" key="GridCell.Tab.1.right/70.27.1530.873@70.27.1530.873" timestamp="1580599828670" />
+    <state width="1484" height="268" key="GridCell.Tab.2.bottom" timestamp="1580599828671">
+      <screen x="70" y="27" width="1530" height="873" />
+    </state>
+    <state width="1484" height="268" key="GridCell.Tab.2.bottom/70.27.1530.873@70.27.1530.873" timestamp="1580599828671" />
+    <state width="1484" height="268" key="GridCell.Tab.2.center" timestamp="1580599828671">
+      <screen x="70" y="27" width="1530" height="873" />
+    </state>
+    <state width="1484" height="268" key="GridCell.Tab.2.center/70.27.1530.873@70.27.1530.873" timestamp="1580599828671" />
+    <state width="1484" height="268" key="GridCell.Tab.2.left" timestamp="1580599828670">
+      <screen x="70" y="27" width="1530" height="873" />
+    </state>
+    <state width="1484" height="268" key="GridCell.Tab.2.left/70.27.1530.873@70.27.1530.873" timestamp="1580599828670" />
+    <state width="1484" height="268" key="GridCell.Tab.2.right" timestamp="1580599828671">
+      <screen x="70" y="27" width="1530" height="873" />
+    </state>
+    <state width="1484" height="268" key="GridCell.Tab.2.right/70.27.1530.873@70.27.1530.873" timestamp="1580599828671" />
+    <state width="1484" height="268" key="GridCell.Tab.3.bottom" timestamp="1580599828672">
+      <screen x="70" y="27" width="1530" height="873" />
+    </state>
+    <state width="1484" height="268" key="GridCell.Tab.3.bottom/70.27.1530.873@70.27.1530.873" timestamp="1580599828672" />
+    <state width="1484" height="268" key="GridCell.Tab.3.center" timestamp="1580599828671">
+      <screen x="70" y="27" width="1530" height="873" />
+    </state>
+    <state width="1484" height="268" key="GridCell.Tab.3.center/70.27.1530.873@70.27.1530.873" timestamp="1580599828671" />
+    <state width="1484" height="268" key="GridCell.Tab.3.left" timestamp="1580599828671">
+      <screen x="70" y="27" width="1530" height="873" />
+    </state>
+    <state width="1484" height="268" key="GridCell.Tab.3.left/70.27.1530.873@70.27.1530.873" timestamp="1580599828671" />
+    <state width="1484" height="268" key="GridCell.Tab.3.right" timestamp="1580599828672">
+      <screen x="70" y="27" width="1530" height="873" />
+    </state>
+    <state width="1484" height="268" key="GridCell.Tab.3.right/70.27.1530.873@70.27.1530.873" timestamp="1580599828672" />
+    <state width="1484" height="268" key="GridCell.Tab.4.bottom" timestamp="1580599828673">
+      <screen x="70" y="27" width="1530" height="873" />
+    </state>
+    <state width="1484" height="268" key="GridCell.Tab.4.bottom/70.27.1530.873@70.27.1530.873" timestamp="1580599828673" />
+    <state width="1484" height="268" key="GridCell.Tab.4.center" timestamp="1580599828672">
+      <screen x="70" y="27" width="1530" height="873" />
+    </state>
+    <state width="1484" height="268" key="GridCell.Tab.4.center/70.27.1530.873@70.27.1530.873" timestamp="1580599828672" />
+    <state width="1484" height="268" key="GridCell.Tab.4.left" timestamp="1580599828672">
+      <screen x="70" y="27" width="1530" height="873" />
+    </state>
+    <state width="1484" height="268" key="GridCell.Tab.4.left/70.27.1530.873@70.27.1530.873" timestamp="1580599828672" />
+    <state width="1484" height="268" key="GridCell.Tab.4.right" timestamp="1580599828672">
+      <screen x="70" y="27" width="1530" height="873" />
+    </state>
+    <state width="1484" height="268" key="GridCell.Tab.4.right/70.27.1530.873@70.27.1530.873" timestamp="1580599828672" />
+  </component>
+</project>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2019.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.3/system/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_DRM_netCore.-108515813.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="DRM_Api" t="IncludeRecursive">
+        <e p="Controllers" t="Include">
+          <e p="AuthenticationController.cs" t="Include" />
+          <e p="RolesController.cs" t="Include" />
+          <e p="UserFilesController.cs" t="Include" />
+          <e p="UsersController.cs" t="Include" />
+        </e>
+        <e p="DRM_Api.csproj" t="IncludeRecursive" />
+        <e p="DRM_Api.xml" t="Include" />
+        <e p="Extensions" t="Include">
+          <e p="CustomValidatorExtensions.cs" t="Include" />
+          <e p="ModelStateExtension.cs" t="Include" />
+          <e p="SwaggerExtension.cs" t="Include" />
+        </e>
+        <e p="Helpers" t="Include">
+          <e p="AccessTokenManager.cs" t="Include" />
+          <e p="ErrorResponse.cs" t="Include" />
+          <e p="HttpRequestHelper.cs" t="Include" />
+          <e p="TokenAppSettings.cs" t="Include" />
+        </e>
+        <e p="Logs" t="Include">
+          <e p="log-20200118.txt" t="Include" />
+        </e>
+        <e p="Middleware" t="Include">
+          <e p="AccessTokenManagerMiddleware.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="PublishProfiles" t="Include">
+            <e p="DRMApi20200126113358 - Web Deploy.pubxml" t="Include" />
+            <e p="FolderProfile.pubxml" t="Include" />
+          </e>
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Validators" t="Include">
+          <e p="AuhenticateModelValidator.cs" t="Include" />
+          <e p="CustomValidators" t="Include">
+            <e p="UserPasswordValidator.cs" t="Include" />
+          </e>
+          <e p="TokenRefreshRequestValidator.cs" t="Include" />
+          <e p="UserFileUploadDataValidator.cs" t="Include" />
+          <e p="UserRequestValidator.cs" t="Include" />
+        </e>
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="mono_crash.mem.7574.1.blob" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="DRM_Api.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="DRM_Api.Core" t="IncludeRecursive">
+        <e p="DRM_Api.Core.csproj" t="IncludeRecursive" />
+        <e p="Entities" t="Include">
+          <e p="BaseEntity.cs" t="Include" />
+          <e p="DTO" t="Include">
+            <e p="AuthenticateModel.cs" t="Include" />
+            <e p="AuthenticatedUserModel.cs" t="Include" />
+            <e p="RoleModel.cs" t="Include" />
+            <e p="RoleResource.cs" t="Include" />
+            <e p="TokenRefreshRequest.cs" t="Include" />
+            <e p="UserFileDownloadResource.cs" t="Include" />
+            <e p="UserFileResource.cs" t="Include" />
+            <e p="UserFileUploadData.cs" t="Include" />
+            <e p="UserRequest.cs" t="Include" />
+            <e p="UserResource.cs" t="Include" />
+            <e p="UserStatsResource.cs" t="Include" />
+          </e>
+          <e p="RefreshToken.cs" t="Include" />
+          <e p="Role.cs" t="Include" />
+          <e p="User.cs" t="Include" />
+          <e p="UserFile.cs" t="Include" />
+          <e p="UserRoles.cs" t="Include" />
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="IRefreshTokenRepository.cs" t="Include" />
+          <e p="IRepository.cs" t="Include" />
+          <e p="IUserFileRepository.cs" t="Include" />
+          <e p="IUserRepository.cs" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="IAccessTokenManager.cs" t="Include" />
+          <e p="IRoleService.cs" t="Include" />
+          <e p="IUserFileService.cs" t="Include" />
+          <e p="IUserService.cs" t="Include" />
+        </e>
+        <e p="UnitOfWork" t="Include">
+          <e p="IUnitOfWork.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="DRM_Api.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="DRM_Api.Persistance" t="IncludeRecursive">
+        <e p="Contexts" t="Include">
+          <e p="AppDbContext.cs" t="Include" />
+          <e p="ModelMapping" t="Include">
+            <e p="BaseEntityMap.cs" t="Include" />
+            <e p="RefreshTokenMap.cs" t="Include" />
+            <e p="RoleMap.cs" t="Include" />
+            <e p="UserFileMap.cs" t="Include" />
+            <e p="UserMap.cs" t="Include" />
+            <e p="UserRolesMap.cs" t="Include" />
+          </e>
+        </e>
+        <e p="DRM_Api.Persistance.csproj" t="IncludeRecursive" />
+        <e p="Migrations" t="Include">
+          <e p="20200124231844_ThirdFirsMigration.Designer.cs" t="Include" />
+          <e p="20200124231844_ThirdFirsMigration.cs" t="Include" />
+          <e p="20200125230121_SetMimeTypeSizeto100.Designer.cs" t="Include" />
+          <e p="20200125230121_SetMimeTypeSizeto100.cs" t="Include" />
+          <e p="20200125234345_AddedUserStats.Designer.cs" t="Include" />
+          <e p="20200125234345_AddedUserStats.cs" t="Include" />
+          <e p="AppDbContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="BaseRepository.cs" t="Include" />
+          <e p="RefreshTokenRepository.cs" t="Include" />
+          <e p="UserFileRepository.cs" t="Include" />
+          <e p="UserRepository.cs" t="Include" />
+        </e>
+        <e p="UnitOfWork" t="Include">
+          <e p="UnitOfWork.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="DRM_Api.Persistance.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="DRM_Api.Services" t="IncludeRecursive">
+        <e p="DRM_Api.Services.csproj" t="IncludeRecursive" />
+        <e p="Helpers" t="Include">
+          <e p="BaseException.cs" t="Include" />
+          <e p="BlobConfiguration.cs" t="Include" />
+          <e p="Helper.cs" t="Include" />
+        </e>
+        <e p="Mapping" t="Include">
+          <e p="ModelToResourceProfile.cs" t="Include" />
+          <e p="ResourceToModelProfile.cs" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="RoleService.cs" t="Include" />
+          <e p="UserFileService.cs" t="Include" />
+          <e p="UserService.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="DRM_Api.Services.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="DRM_netCore.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
